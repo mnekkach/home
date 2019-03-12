@@ -14,7 +14,7 @@ For me sharing is necessary and duty.
 All programs can be performed and optimized to get the best result, it is the main goal of this page, improve the code.
 So, any suggestions are welcome </br></br>
 
-# PROGRAMS
+# PROGRAMS :computer:
 
 ## [Python Tips](https://github.com/nekcorp/Tips)
 
