@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# HOME :house:
+<!--- Add Picture-->
+# PRESENTATION :thumbsup:
 
-You can use the [editor on GitHub](https://github.com/nekcorp/home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This github page regroup all project I realized, completed or in execution.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am not a python programmer, I discovered this language with my engineer work, and since I use this language for all projects I want to make it.</br></br>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# SHARING MY VISION :thumbsup:
 
-# Header 1
-## Header 2
-### Header 3
+For me sharing is necessary and duty.
+All programs can be performed and optimized to get the best result, it is the main goal of this page, improve the code.
+So, any suggestions are welcome </br></br>
 
-- Bulleted
-- List
+# PROGRAMS
 
-1. Numbered
-2. List
+## [Python Tips](https://github.com/nekcorp/Tips)
 
-**Bold** and _Italic_ and `Code` text
+### Description
 
-[Link](url) and ![Image](src)
-```
+Occaecat est et labore magna. Enim excepteur ex fugiat nulla nulla aliqua irure occaecat adipisicing. Non commodo dolor eu amet cupidatat est nulla ad elit id sit nostrud. Eiusmod laborum reprehenderit elit proident nostrud ipsum. Cupidatat nostrud ut nostrud quis fugiat aliquip Lorem elit non. Commodo fugiat et nostrud velit cillum proident et amet incididunt sint.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nekcorp/home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
